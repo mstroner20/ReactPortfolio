@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
 html{
-    background-color: rgb(15, 16, 17); 
+    background-color: rgb(33, 35, 37); 
 }
 
 
@@ -14,14 +14,34 @@ html{
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: rgb(12, 12, 14); /* Black*/
+  background-color: rgb(9, 9, 10); /* Black*/
  
 
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
     
-   
+  
 }
 
-h3{
-    color: white; 
+
+
+.side-nav-links{
+  margin: 0;
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+
+}
+
+
+
+img{
+  width: 100%; 
+  margin-bottom: 20px; 
+
+  padding: 0; 
+}
+
+img:hover{
+
 }
