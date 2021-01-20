@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+html{
+    background-color: rgb(15, 16, 17); 
+}
+
+
+.left-nav{
+
+  height: 100%; /* 100% Full-height */
+  width: 5%; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: rgb(12, 12, 14); /* Black*/
+ 
+
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+    
+   
+}
+
+h3{
+    color: white; 
+}

@@ -1,0 +1,51 @@
+h3{
+    font-size: 65px;
+
+    transition-delay: 0.5s;
+    color: rgb(70, 142, 155);
+
+    line-height: 20px; 
+
+    text-align: left; 
+  
+}
+
+.homepage-text{
+    
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p{
+    color: rgb(49, 146, 49);
+    font-size: 20px; 
+
+    text-align: left; 
+    
+}
+
+.contact-button{
+    display: flex; 
+    align-items: left; 
+    justify-content: left; 
+
+   
+}
+
+button{
+    background-color: rgb(15,16,17); 
+
+    color: rgb(70, 142, 155); 
+    border-color:rgb(70, 142, 155); 
+
+    font-size: 16px; 
+
+    padding: 15px; 
+
+    border-radius: 5px;
+}
+
+
